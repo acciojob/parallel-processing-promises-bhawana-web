@@ -1,4 +1,4 @@
-//your JS code here. If required.
+
 // Array of image URLs
 const imageUrls = [
   'https://via.placeholder.com/150/92c952', // Replace with actual URLs for testing
